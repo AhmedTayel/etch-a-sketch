@@ -12,3 +12,6 @@
 - used flexbox
 - distinction between 'mouseoever' event and 'hover' event
 - you have to use backticks if you want to add variables 
+
+## live preview 
+https://ahmedtayel.github.io/etch-a-sketch/
