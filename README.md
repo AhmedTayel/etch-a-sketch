@@ -1,6 +1,6 @@
 ## etch-a-sketch
 
-## what i learned 
+ what i learned:
 
 - i do not use jquery
 - i forgot about jquery
